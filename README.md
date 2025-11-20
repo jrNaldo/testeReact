@@ -1,2 +1,0 @@
-# testeReact
-Testes de react
