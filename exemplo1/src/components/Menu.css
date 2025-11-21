@@ -1,0 +1,13 @@
+.Menu {
+    background-color: white;
+    border-radius: .5rem;
+    padding: .3rem;
+}
+
+.Menu ul{
+    list-style: none;
+}
+
+.Menu a {
+    text-decoration: none;
+}
